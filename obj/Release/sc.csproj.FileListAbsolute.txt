@@ -1,0 +1,17 @@
+E:\03_windows\02_WPF\sc\bin\Release\sc.exe.config
+E:\03_windows\02_WPF\sc\bin\Release\sc.exe
+E:\03_windows\02_WPF\sc\bin\Release\sc.pdb
+E:\03_windows\02_WPF\sc\bin\Release\System.Drawing.Common.dll
+E:\03_windows\02_WPF\sc\obj\Release\MainWindow.g.cs
+E:\03_windows\02_WPF\sc\obj\Release\App.g.cs
+E:\03_windows\02_WPF\sc\obj\Release\sc_MarkupCompile.cache
+E:\03_windows\02_WPF\sc\obj\Release\sc_MarkupCompile.lref
+E:\03_windows\02_WPF\sc\obj\Release\MainWindow.baml
+E:\03_windows\02_WPF\sc\obj\Release\sc.g.resources
+E:\03_windows\02_WPF\sc\obj\Release\sc.Properties.Resources.resources
+E:\03_windows\02_WPF\sc\obj\Release\sc.csproj.GenerateResource.cache
+E:\03_windows\02_WPF\sc\obj\Release\sc.csproj.CoreCompileInputs.cache
+E:\03_windows\02_WPF\sc\obj\Release\sc.csproj.CopyComplete
+E:\03_windows\02_WPF\sc\obj\Release\sc.exe
+E:\03_windows\02_WPF\sc\obj\Release\sc.pdb
+E:\03_windows\02_WPF\sc\obj\Release\sc.csprojAssemblyReference.cache

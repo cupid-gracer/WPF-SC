@@ -1,0 +1,17 @@
+E:\03_windows\02_WPF\sc\bin\Debug\sc.exe.config
+E:\03_windows\02_WPF\sc\bin\Debug\sc.exe
+E:\03_windows\02_WPF\sc\bin\Debug\sc.pdb
+E:\03_windows\02_WPF\sc\bin\Debug\System.Drawing.Common.dll
+E:\03_windows\02_WPF\sc\obj\Debug\sc.csprojAssemblyReference.cache
+E:\03_windows\02_WPF\sc\obj\Debug\MainWindow.g.cs
+E:\03_windows\02_WPF\sc\obj\Debug\App.g.cs
+E:\03_windows\02_WPF\sc\obj\Debug\sc_MarkupCompile.cache
+E:\03_windows\02_WPF\sc\obj\Debug\sc_MarkupCompile.lref
+E:\03_windows\02_WPF\sc\obj\Debug\MainWindow.baml
+E:\03_windows\02_WPF\sc\obj\Debug\sc.g.resources
+E:\03_windows\02_WPF\sc\obj\Debug\sc.Properties.Resources.resources
+E:\03_windows\02_WPF\sc\obj\Debug\sc.csproj.GenerateResource.cache
+E:\03_windows\02_WPF\sc\obj\Debug\sc.csproj.CoreCompileInputs.cache
+E:\03_windows\02_WPF\sc\obj\Debug\sc.csproj.CopyComplete
+E:\03_windows\02_WPF\sc\obj\Debug\sc.exe
+E:\03_windows\02_WPF\sc\obj\Debug\sc.pdb
